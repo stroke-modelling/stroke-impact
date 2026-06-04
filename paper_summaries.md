@@ -1,0 +1,36 @@
+## Paper summaries
+
+Work-in-progress - still some older SAMueL papers to gather.
+
+### SAMueL-2
+
+| Paper title | Authors | Findings |
+| --- | --- | --- |
+| Stroke physicians' and staff perspectives on machine learning to optimise thrombolysis decision making in stroke: a qualitative study (PRE-PRINT) [DOI](https://doi.org/10.31219/osf.io/v9mgn) | Jarvie, Frost, Pratt-Boyden, ... | "We identified three key learning points. First, given reservations expressed about SSNAP data, it is important to reassure intended adopters about the integrity of modelling based on this data. Second, evidence indicated ED physicians may have less confidence in the evidence base for thrombolysis. More work needs to be done with the ED physician community to build trust in the SAMuel-2 technology: recruiting ED physicians as brokers/clinical champions may address this. Third, perceived lack of funding and stroke workforce shortages may impede quality improvement and adoption of new technologies such as SAMueL-2. These concerns must be addressed to ensure sustained use and adoption. The next phase of the research will focus on the seventh NASSS domain relating to embedding and adaptation of the technology over time." |
+| What would other emergency stroke teams do? Using explainable machine learning to understand variation in thrombolysis practice (2023) [DOI](10.1177/23969873231189040) | __Pearn__, __Allen__, __Laws__, ... | "Using explainable machine learning, we identified that the majority of the between-hospital variation in thrombolysis use in England and Wales may be explained by differences in in-hospital processes and differences in attitudes to judging suitability for thrombolysis." |
+
+### SAMueL-1
+
+| Paper title | Authors | Findings |
+| --- | --- | --- |
+| Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximizing the Benefit of Intravenous Thrombolysis in Acute Stroke (2022) [DOI](https://doi.org/10.1161/STROKEAHA.121.038454) | __Allen__, James, Frost, ... | "Machine learning and clinical pathway simulation may be applied at scale to national stroke audit data, allowing extended use and analysis of audit data. Stroke thrombolysis rates of at least 18% look achievable in England and Wales, but each hospital should have its own target." |
+
+### MUSTER
+
+| Paper title | Authors | Findings |
+| --- | --- | --- |
+| Modelling the potential clinical benefit of mobile stroke units in England (2025) [DOI](10.1186/s12873-025-01242-8)| __Laws__, __Allen__, Scott, ... | "This study suggests that the overall benefit of MSU care if deployed across all of England is likely to be modest. Selective use of MSUs in specific areas is likely to be more effective than widespread implementation. Rapid dispatch, fast on-scene treatment of patients, and careful selection of which patients to dispatch the MSU to (by location and confidence in that person being a confirmed stroke patient), are all critical for maximising benefits from MSU care. MSUs should not be seen as an alternative to optimising day-to-day emergency stroke systems." |
+| Variations in Methodological Approaches to Measuring Health Inequalities and Inequities: A Scoping Review of Acute Stroke Pathways (2025) [DOI](10.3390/healthcare13121410) | McCarthy, McMeekin, __Allen__, ... | "It is vital that the evaluation of programmes like acute stroke care consider impacts on inequality and inequity. Researchers and policy makers should work together to determine relevant measures of inequality/inequity and the most appropriate methods of measuring and categorising them. In addition, researchers should make it clear within their work how they are defining inequality and inequity and what (if any) normative judgements have been made." |
+| Co-design of a Mobile Stroke Unit pathway highlights uncertainties and trade-offs for viable system-wide implementation in the English and Welsh NHS (2025) [DOI](10.1186/s12873-025-01243-7) | Moseley, McMeekin, __Allen__, ... | "The co-designed MSU pathway provides a foundation for MSU implementation in the English and Welsh NHS and can be subjected to local and regional modifications required for implementation. However, optimal implementation is likely hindered by several uncertainties and trade-offs, including the geographical base of the MSU and staffing, that represent challenges to implementation of MSUs at scale. Future developments in acute stroke care may help to mitigate these challenges, such as developments in artificial intelligence to read scans and improved access to telemedicine." |
+| Usability testing a web application to support evidence-based commissioning decisions for implementing mobile stroke units (2025) [DOI](10.1038/s41746-025-01691-2) | Moseley, __Laws__, __Allen__, ... | "Required improvements to the web application were identiﬁed and novel insights into the complexity of context-speciﬁc commissioning decisions were generated, which also informed participants’ views on the viability of MSUs. This study provides empirical evidence in support of developing innovative and accessible digital dissemination methods to engage with commissioning processes and prospectively understand commissioning challenges." |
+| Practitioner, patient and public views on the acceptability of mobile stroke units in England and Wales: A mixed methods study (2025) [DOI](10.1371/journal.pone.0310071) | Moseley, McMeekin, Price, ... | "Whilst MSUs are mostly acceptable to key stakeholders, numerous areas of concern need to be addressed prior to MSU implementation. We recommend further research to address these issues prior to implementation in the NHS." |
+| Where in England would Mobile Stroke Units be Cost-Effective and what are the Implications for Equity of Access: A model based Distributional Cost-Effectiveness Analysis (PRE-PRINT) [DOI](10.21203/rs.3.rs-6016618/v1) | McCarthy, Scott, Price, ... | "MSUs have a heterogenous impact on cost-effectiveness and equity of access of stroke care in the English NHS, with benefits mainly confined to localities with specific geographical and organisational characteristics. Commissioners can consider them as an option in the context of local service provision and resource availability along with other advances in prehospital care, but it cannot be assumed that they would be beneficial in all locations." |
+
+
+### OPTIMIST
+
+| Paper title | Authors | Findings |
+| --- | --- | --- |
+| Specialist PrE-hospital rEDirection for ischaemic stroke thrombectomY (SPEEDY): study protocol for a cluster randomised controlled trial with included health economic and process evaluations (2026) [DOI](10.1136/bmjopen-2025-112545) | Shaw, __Allen__, Day, ... | "This study is a multicentre cluster randomised controlled trial with included health economic and process evaluations." |
+| A lifetime economic model of mortality and secondary care use for patients discharged from hospital following acute stroke (2025) [DOI](10.1177/17474930241284447) | McMeekin, McCarthy, Porteous, ... | "Using long-term follow-up publicly available data from a large clinical cohort, this new model promotes standardized extrapolation of key outcomes over the life course and potentially can improve the real-world accuracy and comparison of long-term cost-effectiveness estimates for stroke care interventions." |
+ 
