@@ -1,14 +1,20 @@
 # stroke-impact
 Reference documents for the impact and outcomes of our stroke work. Everything here is ok to be shared.
 
-Project overview:
+## Project overview:
 
-| Project name | Description | Years active |
-| --- | --- | --- |
-| Catalyst | - | - |
-| MUSTER | - | - |
-| OPTIMIST | - | - |
-| SAMueL-1 | - | - |
-| SAMueL-2 | - | - |
-| SAMueL-3 | - | - |
+### Ongoing projects:
 
+| Project name | Description | Data sources | Findings | Years active | Links |
+| --- | --- | --- | --- | --- | --- |
+| STROKE-IMPACT | "We wish to understand how post-stroke hospital use varies for people with different characteristics (such as COVID history, age, gender, ethnicity, stroke severity, the wealth of their home area) and what emergency treatments they received. Our motivation is to reduce unnecessary variation in stroke care, improve outcomes, and make best use of NHS resources." | British Heart Foundation "Stroke Data Science Catalyst" Secure Data Environment. | - | May\~2024--January\~2025 | [Funding](https://healthdatagateway.org/en/data-use/1256), [Funding alternative](https://bhfdatasciencecentre.org/projects/ccu085/) |
+| SAMueL-3 | "What causes hospital-level variation in the use and speed of proven medical (thrombolysis) and mechanical (thrombectomy) clot-removing treatments in emergency stroke care, and how does that variation affect inpatient lengths of stay, bed use, and outcomes across the population and across key population subgroups (especially deprived and ethnic minority populations)?" | SSNAP | - | April\~2025--March\~2027 | [Funding](https://fundingawards.nihr.ac.uk/award/NIHR168927) |
+| OPTIMIST | "1) Should specialists at regional Centres select ambulance patients to divert to their Centre instead of the nearest local Stroke Unit? 2) How can each region in England achieve the most cost-effective emergency stroke treatment?" | SPEEDY trial | - | August\~2021--March\~2027 | [Funding](https://fundingawards.nihr.ac.uk/award/NIHR202361) |
+
+### Completed projects:
+
+| Project name | Description | Data sources | Findings | Years active | Links |
+| --- | --- | --- | --- | --- | --- |
+| MUSTER | "How would Mobile Stroke Units (MSUs) incorporate into pre-hospital pathways in the English and Welsh National Health Services (E&W NHS), would they be cost-effective now and in five years' time and what implications do they have for equity of access to time critical treatment?" | SSNAP (admissions numbers). | MSUs are cost-effective and improve outcomes only in specific geographical and organisational circumstances. Benefit to patient outcomes would be better achieved by optimising the current stroke pathway than introducing MSUs. Implementation challenging due to staffing and chosen base locations. PPI group like concept, concerned about details. | June\~2023--November\~2024 | [Funding](https://fundingawards.nihr.ac.uk/award/NIHR153982) |
+| SAMueL-2 | "To develop a computer-based tool for doctors to help them improve the speed and use of life-changing treatment for stroke. It compares their stroke pathway with other hospitals, and helps to answer the question: What treatment would this patient receive in other hospitals?". Work with TASC for case studies of stroke units. | SSNAP | (TO DO: details) Stroke units working with TASC have increased their thrombolysis rates. | April\~2022--July\~2024 | [Funding](https://fundingawards.nihr.ac.uk/award/NIHR134326), [HSJ Patient Safety award](https://www.hsj.co.uk/news/hsj-awards-2025-patient-safety-award/7040312.article) |
+| SAMueL-1 | "Our aim is to use simulation and machine learning technologies to identify key levers of improvement in thrombolysis use and speed, developing this analysis to be run as part of the routine quarterly national stroke audit. Qualitative research will be undertaken to maximise the acceptance and influence of these techniques." | SSNAP | "This study found that average stroke thrombolysis rates of 18% are achievable, and inter-hospital variation came from differences in local patient populations and in-hospital processes and decision making." | February\~2019--July\~2021 | [Funding](https://fundingawards.nihr.ac.uk/award/17/99/89) |
